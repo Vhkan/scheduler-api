@@ -14,7 +14,7 @@ Copy the `.env.example` file to `.env.development` and fill in the necessary Pos
 
 ```
 PGHOST=localhost
-PGUSER=development
+PGUSER=development  
 PGDATABASE=scheduler_development
 PGPASSWORD=development
 PGPORT=5432
